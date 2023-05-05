@@ -2,8 +2,8 @@
  Curso de HTML5 e CSS3 do CursoemVídeo
 
  estamos aprendendo a dev HTML e CSS
-
- <a href="https://jeffersonjuscieux.github.io/HTML-CSS/EXERCICIOS/ex001/index.html">Executar o exercício 001</a>
+ 
+<a href="https://jeffersonjuscieux.github.io/HTML-CSS/EXERCICIOS/ex001/index.html">Executar o exercício 001</a>
 
 <a href="https://jeffersonjuscieux.github.io/HTML-CSS/EXERCICIOS/ex002/index.html">Executar o exercício 002</a>
 
